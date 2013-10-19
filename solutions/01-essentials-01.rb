@@ -4,7 +4,7 @@
 #   * A class method 'names' which outputs the names of
 #   four different cows of your election
 
-def Cow
+class Cow
   def initialize(name)
     @name = name
   end
