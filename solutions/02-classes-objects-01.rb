@@ -14,6 +14,6 @@ class MusicAlbum
   end
 
   def print_info
-    puts "This is #{artist}'s #{name}, with a duration of #{duration}"
+    puts "This is #{@artist}'s #{@name}, with a duration of #{@duration}"
   end
 end
